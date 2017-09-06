@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MP3PLAYER</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/pozadi.png</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/pozadi.png</locationURI>
+		</link>
+		<link>
+			<name>src/freeicon.png</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/freeicon.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
